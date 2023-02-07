@@ -1,0 +1,9 @@
+{
+  "Todo": {
+    "_": {
+      "items": 5
+    },
+    "title": { "string": {} },
+    "completed": { "boolean": {} }
+  }
+}
